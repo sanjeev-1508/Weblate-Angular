@@ -1,0 +1,15 @@
+{
+  "locale": "en-US",
+  "translations": {
+    "angular-welcome-header": "Welcome",
+    "angular-welcome-highlighted": "Rocket Ship",
+    "angular-welcome-message": "{$INTERPOLATION} app is running!",
+    "angular-welcome-rocket": "Rocket Ship Smoke",
+    "angular-welcome-resources": "Resources",
+    "angular-welcome-learn": "Learn Angular",
+    "angular-welcome-doc": "CLI Documentation",
+    "angular-welcome-material": "Angular Material",
+    "angular-welcome-blog": "Angular Blog",
+    "angular-welcome-tools": "Angular DevTools"
+  }
+}
