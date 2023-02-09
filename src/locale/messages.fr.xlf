@@ -60,7 +60,7 @@
       </trans-unit>
       <trans-unit id="angular-welcome-blog" datatype="html">
         <source>Angular Blog</source>
-        <target state="translated">Angular Sanjeev</target>
+        <target state="translated">Angular Logesh</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">74</context>
