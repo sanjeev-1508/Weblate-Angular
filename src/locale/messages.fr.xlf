@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="fr" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="angular-welcome-header" datatype="html">
@@ -60,6 +60,7 @@
       </trans-unit>
       <trans-unit id="angular-welcome-blog" datatype="html">
         <source>Angular Blog</source>
+        <target state="translated">Angular Sanjeev</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">74</context>
