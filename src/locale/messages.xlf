@@ -10,11 +10,32 @@
           <context context-type="linenumber">49,53</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="signup-header-count" datatype="html">
-        <source><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;w-25&quot;&gt;"/><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;div-info-number&quot;&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;title-info-number&quot;&gt;"/>+300<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;subtitle-info-number&quot;&gt;"/>brands<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;w-25&quot;&gt;"/><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;div-info-number&quot;&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;title-info-number&quot;&gt;"/>+20 million<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;subtitle-info-number&quot;&gt;"/>references<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;w-25&quot;&gt;"/><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;div-info-number&quot;&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;title-info-number&quot;&gt;"/>+130<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;subtitle-info-number&quot;&gt;"/>countries<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;w-25&quot;&gt;"/><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;div-info-number&quot;&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;title-info-number&quot;&gt;"/>+15,000<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;subtitle-info-number&quot;&gt;"/>users<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/></source>
+      <trans-unit id="signup-header-brand-count" datatype="html">
+        <source>brands</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/sign-up/sign-up.component.html</context>
-          <context context-type="linenumber">55,79</context>
+          <context context-type="linenumber">58,60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup-header-reference-count" datatype="html">
+        <source>references</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/sign-up/sign-up.component.html</context>
+          <context context-type="linenumber">64,66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup-header-count-countries" datatype="html">
+        <source>countries</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/sign-up/sign-up.component.html</context>
+          <context context-type="linenumber">70,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="signup-header-count-users" datatype="html">
+        <source>users</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/sign-up/sign-up.component.html</context>
+          <context context-type="linenumber">76,78</context>
         </context-group>
       </trans-unit>
       <trans-unit id="signup-header-brand-list" datatype="html">
