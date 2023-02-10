@@ -2,6 +2,182 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en-US" datatype="plaintext" original="ng2.template">
     <body>
+      <trans-unit id="button-text-cancel" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/buttons-bar/buttons-bar.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-text-back" datatype="html">
+        <source>Back</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/buttons-bar/buttons-bar.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-text-continue" datatype="html">
+        <source>Continue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/buttons-bar/buttons-bar.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-text-finish" datatype="html">
+        <source>Finish</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/buttons-bar/buttons-bar.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8324138634382067187" datatype="html">
+        <source>Choose the Offer Type :</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/choose-offer/choose-offer.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6766964202738284534" datatype="html">
+        <source>Marketparts’s Fee:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/choose-offer/choose-offer.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8440904469173776815" datatype="html">
+        <source> Marketparts operates as a Service Provider, Marketparts charges fees on invoiced volume </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/choose-offer/choose-offer.component.html</context>
+          <context context-type="linenumber">38,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5608060436955353752" datatype="html">
+        <source> I had a look and I agree with the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+        href=&quot;https://www.marketparts.com/fr/terms-of-service/&quot;
+        target=&quot;_blank&quot;&gt;"/> Dedicated Sales Terms and Conditions <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/choose-offer/choose-offer.component.html</context>
+          <context context-type="linenumber">48,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2301073888889445787" datatype="html">
+        <source> Prepare your data file : Minimum Required Values (<x id="INTERPOLATION" equiv-text="{{
+        getMandatoryMappingSize()
+      }}"/>) </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">3,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2614878976044933521" datatype="html">
+        <source> This file must contain at least the following information displayed below.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/> No matter the format, the name of each value or the sort of each column, we provide mapping and quality control features. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">8,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5158199566763706836" datatype="html">
+        <source>Select a file :</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7307362602227930278" datatype="html">
+        <source>Accepted format : xlsx, csv</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3909338607728620957" datatype="html">
+        <source>Map your file:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6573179013169494891" datatype="html">
+        <source>Column Needed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7383275878520480436" datatype="html">
+        <source>File Column</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="267623237288545597" datatype="html">
+        <source>Default Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="button-text-browse" datatype="html">
+        <source>Browse...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/call-for-tender/call-for-tender.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="select-column-placeholder" datatype="html">
+        <source>Select Column</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="select-value-placeholder" datatype="html">
+        <source>Select Value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/import-data/import-data.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="step-label-choose-offer" datatype="html">
+        <source>Choose Offer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/steps/steps.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="step-label-import-data" datatype="html">
+        <source>Import data</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/steps/steps.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="step-label-manage-flow" datatype="html">
+        <source>Manage flux of data</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home/sell-on-marketparts/add-products/steps/steps.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1334707805154709096" datatype="html">
+        <source>Select a file:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/call-for-tender/call-for-tender.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7850620306258686036" datatype="html">
+        <source> Accepted format: xlsx, csv </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/call-for-tender/call-for-tender.component.html</context>
+          <context context-type="linenumber">48,50</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="signup-header" datatype="html">
         <source> The <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;orange&quot;&gt;"/>largest<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> global wholesale &amp; retail <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br class=&quot;br-small-screen&quot; /&gt;"/>marketplace<x id="LINE_BREAK_1" equiv-text="&lt;br
               class=&quot;br-large-screen&quot; /&gt;"/> for automotive spare parts </source>
@@ -18,7 +194,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="signup-header-brand-list" datatype="html">
-        <source> The best offers on biggest <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;orange&quot;&gt;"/>brands<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> are on Marketparts </source>
+        <source> The best offers on biggest  <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;orange&quot;&gt;"/>brands<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> are on Marketparts </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/sign-up/sign-up.component.html</context>
           <context context-type="linenumber">82,84</context>
